@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 -   :seedling: Exploring Technical Content Writing.
 
--   :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+-   :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 -   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sakib-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakib2439/)
 
@@ -71,5 +71,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+
 <!-- BLOG-POST-LIST:END -->
