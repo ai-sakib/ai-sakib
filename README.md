@@ -1,19 +1,19 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
-        <a href="your-linkedin-URL">
+        <a href="https://www.linkedin.com/in/sakib2439">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="your-youtube-URL">
+        <a href="https://www.youtube.com/channel/UCe0NulcI-Oo94Md8qR37E1g">
             <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
         </a>
-        <a href="your-twitter-URL">
+        <a href="https://twitter.com/sakib2439">
             <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=sakib2439&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=ai-sakib&style=flat-square&color=blue" alt=""/>
     <h1>
-  hey there
+  Welcome to my profile !
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div align="center">
@@ -27,12 +27,9 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 
 -   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
 -   :seedling: Exploring Technical Content Writing.
-
 -   :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
--   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sakib-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakib2439/)
+-   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sakib-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakib2439/)
 
 ---
 
@@ -58,15 +55,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
                                                                                                                                      
 ### GitHub Stars
                                                                                                                                       
-![Sakib's Github Stats](https://github-readme-stats.vercel.app/api?username=sakib2439&show_icons=true&theme=radical)
+![Sakib's Github Stats](https://github-readme-stats.vercel.app/api?username=ai-sakib&show_icons=true&theme=radical)
                                                                                                                                      
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sakib2439&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ai-sakib&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib2439&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-sakib&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### :writing_hand: Blog Posts :
